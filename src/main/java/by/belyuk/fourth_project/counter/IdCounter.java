@@ -1,4 +1,4 @@
-package by.belyuk.fourth_project.id_counter;
+package by.belyuk.fourth_project.counter;
 
 public class IdCounter {
   private static long truckIdCount = 1;
