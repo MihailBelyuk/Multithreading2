@@ -1,7 +1,7 @@
 package by.belyuk.fourth_project.entity;
 
 
-import by.belyuk.fourth_project.id_counter.IdCounter;
+import by.belyuk.fourth_project.counter.IdCounter;
 import by.belyuk.fourth_project.creator.TruckCreatorImpl;
 import by.belyuk.fourth_project.exception.CustomException;
 import org.apache.logging.log4j.LogManager;

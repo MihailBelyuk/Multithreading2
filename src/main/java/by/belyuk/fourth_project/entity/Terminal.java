@@ -1,6 +1,6 @@
 package by.belyuk.fourth_project.entity;
 
-import by.belyuk.fourth_project.id_counter.IdCounter;
+import by.belyuk.fourth_project.counter.IdCounter;
 
 public class Terminal {
   private long terminalId;
